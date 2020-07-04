@@ -1,0 +1,10 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.luacheckcache
+luacov.stats.out
+luacov.report.out
+*.xml
